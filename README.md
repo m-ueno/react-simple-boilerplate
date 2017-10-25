@@ -13,6 +13,8 @@ cd react-simple-boilerplate
 git remote rm origin
 git remote add origin [YOUR NEW REPOSITORY]
 # Manually update your package.json file
+yarn outdated
+yarn upgrade --latest
 ```
 
 Install the dependencies and start the server.
